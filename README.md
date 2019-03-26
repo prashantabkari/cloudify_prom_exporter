@@ -36,8 +36,6 @@ Flags take the following options
 
 ```
 
-## Running the Tests
-- To be Added
 
 ## Deployment
 -------------------
